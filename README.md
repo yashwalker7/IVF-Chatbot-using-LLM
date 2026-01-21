@@ -29,7 +29,7 @@ Python Flask LangChain FAISS HuggingFace Transformers Sentence Transformers Pand
 
 👨‍⚕️ Role Login Details
 
-Patient • Enter Patient ID • Then enter 5-digit password
+Patient • Enter Patient ID • Then enter 4 digit password
 
 Staff • Enter Staff ID • Then password
 
