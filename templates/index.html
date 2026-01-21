@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>IVF Chatbot</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="left-col">
+      <div class="logo">
+        <img src="/static/IVF Chatbot.jpg" alt="bot" id="left-avatar" />
+      </div>
+      <h2>IVF Chatbot</h2>
+
+      <div class="quick-actions">
+        <h4>Quick actions</h4>
+        <button class="mini-btn" id="qa-patient">I am a Patient</button>
+        <button class="mini-btn" id="qa-doctor">I am a Doctor</button>
+        <button class="mini-btn" id="qa-guest">I am a Guest</button>
+      </div>
+
+      <div class="tips" style="margin-top:28px;color:#9aa4ad;font-size:14px;">
+        <h4 style="color:#9aa4ad">Tips</h4>
+        <ul>
+          <li>For patient queries give P10001 style IDs.</li>
+          <li>Ask about AMH, FSH, sperm results, embryo grade, IVF process.</li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="header">
+        <div style="display:flex;align-items:center;gap:16px;">
+          <img src="/static/IVF Chatbot.jpg" alt="logo" id="top-avatar" />
+          <h1>IVF Chatbot</h1>
+        </div>
+        <div>
+          <button class="role-btn" data-role="Patient">I'm a Patient</button>
+          <button class="role-btn" data-role="Doctor">I'm a Doctor</button>
+          <button class="role-btn" data-role="Guest">I'm a Guest</button>
+        </div>
+        <div style="margin-left:18px;">
+          <button id="reset-btn" class="reset-btn">Reset Conversation</button>
+        </div>
+      </header>
+
+      <section class="chat-wrapper" id="chat-wrapper">
+        <div id="chat-area" class="chat-area"></div>
+      </section>
+
+      <div class="input-footer">
+        <div class="input-box">
+          <button id="mic-btn" class="mic-btn" title="Speak">🎙️</button>
+          <textarea id="input-text" placeholder="Say hello or ask a question"></textarea>
+        </div>
+
+        <button id="send-btn" class="send-btn" title="Send">
+          <img src="/static/send.png" alt="send" />
+        </button>
+      </div>
+    </main>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
