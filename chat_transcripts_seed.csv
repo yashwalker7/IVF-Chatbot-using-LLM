@@ -1,0 +1,241 @@
+text,intent
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+My Patient ID is P10045. Show my IVF result.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+"I want to check my embryo grade, Patient ID P10110.",patient_lookup
+Can you show my AMH and FSH levels? My ID is P10220.,patient_lookup
+Tell me my embryo grade.,test_result
+What is my AMH level?,test_result
+What is my AMH level?,test_result
+What is my AMH level?,test_result
+What is my AMH level?,test_result
+What is my AMH level?,test_result
+Tell me my embryo grade.,test_result
+What is my sperm analysis result?,test_result
+What is my AMH level?,test_result
+Show my FSH value.,test_result
+What is my AMH level?,test_result
+Show my FSH value.,test_result
+What is my sperm analysis result?,test_result
+What is my sperm analysis result?,test_result
+What is my AMH level?,test_result
+What is my sperm analysis result?,test_result
+Show my FSH value.,test_result
+Tell me my embryo grade.,test_result
+Show my FSH value.,test_result
+What is my sperm analysis result?,test_result
+Tell me my embryo grade.,test_result
+What is my AMH level?,test_result
+Tell me my embryo grade.,test_result
+Tell me my embryo grade.,test_result
+Tell me my embryo grade.,test_result
+Show my FSH value.,test_result
+What is my AMH level?,test_result
+Show my FSH value.,test_result
+Tell me my embryo grade.,test_result
+What is my AMH level?,test_result
+Show my FSH value.,test_result
+What is my sperm analysis result?,test_result
+What is my sperm analysis result?,test_result
+What is my AMH level?,test_result
+Tell me my embryo grade.,test_result
+What is my sperm analysis result?,test_result
+Tell me my embryo grade.,test_result
+What is my AMH level?,test_result
+What is my sperm analysis result?,test_result
+Tell me my embryo grade.,test_result
+Explain IVF in simple terms.,general_info
+Explain IVF in simple terms.,general_info
+What is AMH?,general_info
+What is AMH?,general_info
+What is IVF?,general_info
+What is IVF?,general_info
+How does embryo grading work?,general_info
+What is AMH?,general_info
+What is AMH?,general_info
+What is AMH?,general_info
+What is AMH?,general_info
+How does embryo grading work?,general_info
+What is AMH?,general_info
+How does embryo grading work?,general_info
+What is AMH?,general_info
+Explain IVF in simple terms.,general_info
+Explain IVF in simple terms.,general_info
+Explain IVF in simple terms.,general_info
+What is IVF?,general_info
+What is IVF?,general_info
+What is IVF?,general_info
+How does embryo grading work?,general_info
+Explain IVF in simple terms.,general_info
+What is IVF?,general_info
+What is AMH?,general_info
+What is AMH?,general_info
+How does embryo grading work?,general_info
+What is AMH?,general_info
+How does embryo grading work?,general_info
+How does embryo grading work?,general_info
+What is AMH?,general_info
+How does embryo grading work?,general_info
+What is IVF?,general_info
+Explain IVF in simple terms.,general_info
+Explain IVF in simple terms.,general_info
+Explain IVF in simple terms.,general_info
+Explain IVF in simple terms.,general_info
+What is AMH?,general_info
+What is IVF?,general_info
+What is IVF?,general_info
+How much does IVF cost?,pricing
+What are the charges for IVF treatment?,pricing
+Tell me the cost of an IVF cycle.,pricing
+What are the charges for IVF treatment?,pricing
+Tell me the cost of an IVF cycle.,pricing
+What are the charges for IVF treatment?,pricing
+How much does IVF cost?,pricing
+How much does IVF cost?,pricing
+Tell me the cost of an IVF cycle.,pricing
+How much does IVF cost?,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+What are the charges for IVF treatment?,pricing
+What are the charges for IVF treatment?,pricing
+How much does IVF cost?,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+What are the charges for IVF treatment?,pricing
+What are the charges for IVF treatment?,pricing
+What are the charges for IVF treatment?,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+How much does IVF cost?,pricing
+How much does IVF cost?,pricing
+Tell me the cost of an IVF cycle.,pricing
+What are the charges for IVF treatment?,pricing
+Tell me the cost of an IVF cycle.,pricing
+How much does IVF cost?,pricing
+What are the charges for IVF treatment?,pricing
+How much does IVF cost?,pricing
+Tell me the cost of an IVF cycle.,pricing
+Tell me the cost of an IVF cycle.,pricing
+What are the charges for IVF treatment?,pricing
+How much does IVF cost?,pricing
+What are the charges for IVF treatment?,pricing
+How much does IVF cost?,pricing
+What are the charges for IVF treatment?,pricing
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+How can I schedule a visit?,appointment
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+How can I schedule a visit?,appointment
+Can I meet a doctor tomorrow?,appointment
+How can I schedule a visit?,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+How can I schedule a visit?,appointment
+How can I schedule a visit?,appointment
+How can I schedule a visit?,appointment
+Can I meet a doctor tomorrow?,appointment
+Can I meet a doctor tomorrow?,appointment
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+Can I meet a doctor tomorrow?,appointment
+Can I meet a doctor tomorrow?,appointment
+Can I meet a doctor tomorrow?,appointment
+Can I meet a doctor tomorrow?,appointment
+Can I meet a doctor tomorrow?,appointment
+I want to book an appointment with Dr. D101.,appointment
+Can I meet a doctor tomorrow?,appointment
+Can I meet a doctor tomorrow?,appointment
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+How can I schedule a visit?,appointment
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+I want to book an appointment with Dr. D101.,appointment
+I want to book an appointment with Dr. D101.,appointment
+How can I schedule a visit?,appointment
+Which doctor is handling my case?,doctor_info
+Who is my assigned doctor?,doctor_info
+Which doctor is handling my case?,doctor_info
+Who is my assigned doctor?,doctor_info
+Which doctor is handling my case?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Who is my assigned doctor?,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Who is my assigned doctor?,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Who is my assigned doctor?,doctor_info
+Which doctor is handling my case?,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Who is my assigned doctor?,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Which doctor is handling my case?,doctor_info
+Who is my assigned doctor?,doctor_info
+Who is my assigned doctor?,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Which doctor is handling my case?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Who is my assigned doctor?,doctor_info
+Who is my assigned doctor?,doctor_info
+Which doctor is handling my case?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Which doctor is handling my case?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Which doctor is handling my case?,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Who is my assigned doctor?,doctor_info
+Tell me more about the fertility specialists.,doctor_info
+Tell me more about the fertility specialists.,doctor_info

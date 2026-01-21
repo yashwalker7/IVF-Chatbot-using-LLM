@@ -1,0 +1,10 @@
+gradio>=3.0
+scikit-learn
+pandas
+numpy
+matplotlib
+chromadb
+sentence-transformers
+protobuf<=4.21.12
+flask==2.3.2
+gunicorn==21.2.0
